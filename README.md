@@ -9,6 +9,8 @@ This is a 42-networking System Administration project. Where I discovered Docker
 ## Technologies
 Project is created with:
 * Docker
+* PHP
+* shell
 	
 ## Setup
 * To run this project:
